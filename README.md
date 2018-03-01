@@ -1,6 +1,6 @@
 Meghan O'Leary
 
-The regulatory constraints incorporate the boolean rules used by Palsson
+The regulatory constraints incorporate the boolean rules used by Palsson and are located in the DataDictionary.
 
 Assumptions:
 The lower bound for the anaerobic case without regulatory constraints was set to -0.0001 for M_o2_e since
