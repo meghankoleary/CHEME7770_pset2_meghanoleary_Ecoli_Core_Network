@@ -1,7 +1,5 @@
 Meghan O'Leary
 
-It should also describe the differences between the metabolic flux distribution for each calculation.
-
 The regulatory constraints incorporate the boolean rules used by Palsson
 
 Assumptions:
