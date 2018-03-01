@@ -8,7 +8,7 @@ a lower bound of 0 resulted in no growth.
 
 Following metabolites and reactions were "on" for the regulatory constraint cases:
 
-M_o2_e=1 (aerobic) and 0 (anerobic)
+M_o2_e=1 (aerobic) and 0 (anaerobic)
 
 M_succ_e=1;
 
