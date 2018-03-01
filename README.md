@@ -72,3 +72,6 @@ Anaerobic without regulatory constraints: 5.308137374595246e-5 / hr
 Aerobic with regulatory constraints: 0.04142665672795142 / hr
 
 Anaerobic with regulatory constraints: 0.02742681360490633 / hr
+
+Aerobic with and without regulatory constraints are comparable - have the same order of magnitude. 
+Anaerobic without regulatory constraints has a much smaller growth than with regulatory constraints.
